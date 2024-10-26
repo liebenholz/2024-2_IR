@@ -6,6 +6,6 @@
 
 ## Assignments
 ### 1. Report of Okapi BM25 Demonstration
-- Okapi BM25 model in Python. [GitHub](https://github.com/dorianbrown/rank_bm25) [Python Doc](https://pypi.org/project/rank-bm25/) [Reference](https://littlefoxdiary.tistory.com/12)
+- Okapi BM25 model in Python. [**GitHub**](https://github.com/dorianbrown/rank_bm25) [**PyPI**](https://pypi.org/project/rank-bm25/) [**Reference**](https://littlefoxdiary.tistory.com/12)
 - Make different examples of English documents and check if it works on other Corpus(document collection).
 - Okapi BM25 model on **Korean Document**: Use 'bigram()' function instead of 'split()' function. Try some examples and see if it works well.
